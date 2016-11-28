@@ -11,6 +11,7 @@ package perpusmantapjiwa;
  */
 public class PerpusMantapJiwa {
     private String judul;
+    private String pengarang;
     /**
      * @param args the command line arguments
      */
