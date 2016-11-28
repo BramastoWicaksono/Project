@@ -10,7 +10,7 @@ package perpusmantapjiwa;
  * @author sandhy putra
  */
 public class PerpusMantapJiwa {
-
+    private String judul;
     /**
      * @param args the command line arguments
      */
